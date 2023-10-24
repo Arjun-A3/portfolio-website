@@ -21,8 +21,8 @@ const About = () => {
       <h2 className="heading-secondary">{title}</h2>
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
-          <p>
-            Hello , I am Arjun A Chandran a Web-developer,Engineer and an always trying good human
+          <p> 
+            Hello , I am Arjun A Chandran a Software Engineer, and i am currently pursuing my undergrad course at KIT coimbatore on Computer Science and Business Systems.
           </p>
           {/* <p>
             Fast-forward to today, and I’ve had the privilege of working at a
@@ -37,8 +37,7 @@ const About = () => {
             .
           </p> */}
           <p>
-            My main focus these days is learning Software development and finding
-            a decent job.
+            My main focus these days is learning Software development and making my challanges into my oppurtunities.
           </p>
 
           {list && (

@@ -79,12 +79,12 @@ export const navbarSection: NavbarSectionType = {
 export const heroSection: HeroSectionType = {
   subtitle: 'Hi, my name is',
   title: 'Arjun A Chandran.',
-  tagline: 'Trying to make a difference from the god\'s own country .',
+  tagline: 'I\'m an Engineer trying to do better every day',
   description:
-    "I'm an Engineer trying to do better every day",
+    "Trying to make a difference from the god's own country.",
   // description:
   //   "I'm a passionate Full Stack web developer having an experience of web  applications with React.js, Next.js and Blockchain development on Ethereum, Solidity and Web3.js.",
-  specialText: 'Currently learning and experimenting on stuffs',
+  specialText: 'Currently learning and experimenting on Javascript Technologies, SoftSkills and Competitive Programming.',
   // either button or simple text (information)
   cta: {
     title: 'see my resume',
