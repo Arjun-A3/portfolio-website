@@ -63,14 +63,6 @@
 
 - To change the theme, edit `src/styles/globals.css`
 
-## Contributing
-
-###### Join Our Discord: [https://discord.gg/St2dHg9YwA](https://discord.gg/St2dHg9YwA)
-
-Remember, Good PR makes you a Good contributor!
-
-1. Run the project locally, refer [how to use](#how-to-use).
-2. Follow [Contributing Guidelines](/CONTRIBUTING.md).
 
 ## Continuous Development
 
