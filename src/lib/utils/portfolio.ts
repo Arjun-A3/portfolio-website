@@ -437,6 +437,6 @@ export const socialSection: SocialSectionType = {
 // Footer Section
 
 export const footerSection: FooterSectionType = {
-  title: 'Design & Built by Vatsal Singh Modified By Arjun A Chandran',
+  title: 'Modified and Designed by Arjun A Chandran',
   link: 'https://github.com/Arjun-A3/portfolio-website',
 };
