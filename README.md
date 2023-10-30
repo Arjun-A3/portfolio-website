@@ -1,19 +1,11 @@
 <h1 align="center">
-  vatsalsinghkv.vercel.app
+  arjunachandran.vercel.app
 </h1>
 
 <p align="center">
-  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">vatsalsinghkv.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. <a href="https://arjunachandran.vercel.app" target="_blank">arjunachandran.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
-<p align="center">
-  <a href="https://choosealicense.com/licenses/mit/">
-    <img src="https://img.shields.io/badge/License-MIT-brightgreen"/ >
-  </a>
-  <img src="https://img.shields.io/badge/Version-2.0.0-blue"/ >
-</p>
-
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
 
 ## Sections
 
@@ -90,13 +82,9 @@ Remember, Good PR makes you a Good contributor!
 
 ## Contact
 
-- Discord - [https://discord.gg/St2dHg9YwA](https://discord.gg/St2dHg9YwA)
-- Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
-- Github - [@vatsalsinghkv](https://github.com/vatsalsinghkv)
-- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/vatsalsinghkv/)
-- Twitter - [@vatsalsinghkv](https://www.twitter.com/vatsalsinghkv)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/vatsalsinghkv)
-- Facebook - [@vatsalsinghkv](https://www.facebook.com/vatsal.singh.kv)
+- Website - [arjunachandran.vercel.app](https://arjunachandran.vercel.app)
+- Github - [@arjunachandran](https://github.com/Arjun-A3)
+- LinkedIn - [@arjunachandran](https://www.linkedin.com/in/arjun-a-carb/)
 
 ## Acknowledgements
 
