@@ -248,15 +248,15 @@ export const projectsSection: ProjectsSectionType = {
       year: 2023,
       tags: ['Java','Spring','React','MongoDB'],
     },
-    // {
-    //   id: getId(),
-    //   name: 'easy fix',
-    //   url: 'https://easy-fix.vercel.app/',
-    //   repo: 'https://github.com/vatsalsinghkv/easy-fix',
-    //   img: 'https://user-images.githubusercontent.com/68834718/258852895-df5c6da7-a698-40fb-97c3-a5474314cb85.png',
-    //   year: 2023,
-    //   tags: ['React', 'Tailwind'],
-    // },
+    {
+      id: getId(),
+      name: 'Recruitment-Filtration-for-Enterprises-using-ML-model',
+      url: '/',
+      repo: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model',
+      img: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/blob/main/result/WhatsApp%20Image%202024-01-27%20at%2011.42.42%20AM.jpeg',
+      year: 2024,
+      tags: ['ML model', 'gradio' ,'python','data filteration','OneAPI Optimistaion'],
+    },
     // {
     //   id: getId(),
     //   name: 'image animations',
@@ -437,6 +437,6 @@ export const socialSection: SocialSectionType = {
 // Footer Section
 
 export const footerSection: FooterSectionType = {
-  title: 'Modified and Designed by Arjun A Chandran',
+  title: 'Modified  by Arjun A Chandran and designed by Vitsal Singh',
   link: 'https://github.com/Arjun-A3/portfolio-website',
 };
