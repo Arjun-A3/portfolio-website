@@ -1,3 +1,4 @@
+
 import { StringKeyValueType } from '@/lib/types';
 import {
   AboutSectionType,
@@ -102,12 +103,14 @@ export const aboutSection: AboutSectionType = {
   list: {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
-      'NextJs',
-      'TailwindCSS',
+      'ReactJs',
+      'Ajax-Jquery',
       'ExpressJs',
-      'PostgreSQL',
-      'TypeScript',
+      'SQL',
+      'MongoDB',
       'JavaScript',
+      'Java',
+      'SpringBoot'
     ],
   },
   img: '/pp.png',
@@ -120,7 +123,7 @@ export const skillsSection: SkillsSectionType = {
   skills: [
     {
       id: getId(),
-      title: 'Engineer',
+      title: 'Tech Stacks',
       // animation lottie file: https://lottiefiles.com/
       lottie: {
         light: '/lotties/frontend.json',
@@ -136,10 +139,10 @@ export const skillsSection: SkillsSectionType = {
         { name: 'html-5', icon: 'vscode-icons:file-type-html' },
         { name: 'CSS-3', icon: 'vscode-icons:file-type-css' },
         { name: 'javaScript', icon: 'vscode-icons:file-type-js-official' },
-        {
-          name: 'typeScript',
-          icon: 'vscode-icons:file-type-typescript-official',
-        },
+        // {
+        //   name: 'typeScript',
+        //   icon: 'vscode-icons:file-type-typescript-official',
+        // },
         { name: 'java', icon: 'vscode-icons:file-type-jar' },
         { name: 'nodejs', icon: 'logos:nodejs-icon' },
         { name: 'reactjs', icon: 'logos:react' },
@@ -202,7 +205,7 @@ export const experienceSection: ExperienceSectionType = {
       upto: 'December 2022',
       tasks: [
         'Created a  software in Java',
-        'Got my hand dirty by using netbeans.',
+        'Worked on netbeans.',
         'Developed a simple funcitonal authentication page intergated with SQL',
       ],
     },
@@ -253,7 +256,7 @@ export const projectsSection: ProjectsSectionType = {
       name: 'Recruitment-Filtration-for-Enterprises-using-ML-model',
       url: '/',
       repo: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model',
-      img: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model/blob/main/result/WhatsApp%20Image%202024-01-27%20at%2011.42.42%20AM.jpeg',
+      img: '',
       year: 2024,
       tags: ['ML model', 'gradio' ,'python','data filteration','OneAPI Optimistaion'],
     },
