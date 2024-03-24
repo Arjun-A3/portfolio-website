@@ -244,22 +244,31 @@ export const projectsSection: ProjectsSectionType = {
   projects: [
     {
       id: getId(),
-      name: 'Study Repo',
+      name: 'STUDYREPO:education-with-seamless-collaboration-and-digital-access.',
       url: 'https://github.com/Arjun-A3/studyRepo',
       repo: 'https://github.com/Arjun-A3/studyRepo',
       img: 'https://github.com/Arjun-A3/studyRepo/assets/110415386/1805c7e6-9271-4bd3-b879-e861a2a055d3',
       year: 2023,
-      tags: ['Java','Spring','React','MongoDB'],
+      tags: ['Java','Spring','React','MongoDB','Javascript','Html','CSS'],
     },
     {
       id: getId(),
       name: 'Recruitment-Filtration-for-Enterprises-using-ML-model',
-      url: '/',
+      url: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model',
       repo: 'https://github.com/Arjun-A3/Recruitment-Filtration-for-Enterprises-using-ML-model',
       img: 'https://github.com/Arjun-A3/studyRepo/assets/110415386/d008aabb-4441-473c-ab52-f0edbd71c2a9',
       year: 2024,
       tags: ['ML model', 'gradio' ,'python','data filteration','OneAPI Optimistaion'],
     },
+    {
+      id: getId(),
+      name: 'User Registration and Profile Management System',
+      url: 'https://github.com/Arjun-A3/Guvi-web',
+      repo: 'https://github.com/Arjun-A3/Guvi-web',
+      img: 'https://github.com/Arjun-A3/Guvi-web/assets/110415386/58050296-87eb-4d53-81d5-419054858b7b',
+      year: 2024,
+      tags: ['JavaScript (with jQuery)', 'PHP' ,'MySQL','MongoDB','Redis'],
+    }
     // {
     //   id: getId(),
     //   name: 'image animations',
